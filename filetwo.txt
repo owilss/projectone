@@ -1,2 +1,4 @@
 import java.swing.*;
+
 publica static example2{
+}
