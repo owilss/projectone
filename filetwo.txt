@@ -1,4 +1,6 @@
 import java.swing.*;
 
 publica static example2{
+	public void static main(String args[]) {
+}
 }
